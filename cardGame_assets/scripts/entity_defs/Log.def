@@ -1,0 +1,35 @@
+<root>
+  
+	<Properties>
+    <accountId>
+      <Type>  INT16 </Type>
+      <Flags> BASE  </Flags>
+      <Persistent>  true  </Persistent>
+    </accountId>
+    <action>
+      <Type>  UNICODE </Type>
+      <Flags> BASE  </Flags>
+      <Persistent>  true  </Persistent>
+    </action>
+    <value>
+      <Type>  UNICODE </Type>
+      <Flags> BASE  </Flags>
+      <Persistent>  true  </Persistent>
+    </value>
+    <time>
+      <Type>  UNICODE </Type>
+      <Flags> BASE  </Flags>
+      <Persistent>  true  </Persistent>
+    </time>
+</Properties>
+
+	<ClientMethods>
+	</ClientMethods>
+
+	<BaseMethods>
+	</BaseMethods>
+
+	<CellMethods>
+</CellMethods>
+
+</root>
